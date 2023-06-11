@@ -9,13 +9,13 @@ This API serves as a crucial component of My AliExpress Clone project. It utiliz
 ## Clone the repository and run the following commands:
 
 ```sh
-git clone https://github.com/wackydawg/aliexpress-clone-api.git
+git clone https://github.com/WackyDawg/AjaxQueryCountries.git
 ```
 
 ## Navigate to the project directory:
 
 ```sh
-cd aliexpress-clone-api
+cd AjaxQueryCountries
 ```
 
 ## Install the required dependencies:
